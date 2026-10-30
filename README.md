@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.cloudxdocs.com/blog/images/convert-word-to-markdown/cover.jpg" alt="docx-to-markdown" width="300" />
+</p>
+
 # Skill DOCX in Markdown per Windows
 
 Questa skill converte documenti Word `.docx` in Markdown GitHub Flavored Markdown (GFM) con Pandoc. Dopo la conversione, il modello AI selezionato in Copilot Chat puo correggere refusi e residui di formattazione, mantenendo contenuto e significato originali.
